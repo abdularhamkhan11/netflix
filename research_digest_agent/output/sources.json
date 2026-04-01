@@ -1,0 +1,79 @@
+{
+    "AI is widely used in healthcare for dise": [
+        {
+            "claim": "AI is widely used in healthcare for disease diagnosis",
+            "evidence": "AI is widely used in healthcare for disease diagnosis",
+            "source": "file1.txt"
+        }
+    ],
+    "It helps doctors detect conditions like ": [
+        {
+            "claim": "It helps doctors detect conditions like cancer at an early stage",
+            "evidence": "It helps doctors detect conditions like cancer at an early stage",
+            "source": "file1.txt"
+        }
+    ],
+    "However, AI systems can sometimes produc": [
+        {
+            "claim": "However, AI systems can sometimes produce incorrect predictions",
+            "evidence": "However, AI systems can sometimes produce incorrect predictions",
+            "source": "file1.txt"
+        }
+    ],
+    "Artificial intelligence improves hospita": [
+        {
+            "claim": "Artificial intelligence improves hospital efficiency by automating routine tasks",
+            "evidence": "Artificial intelligence improves hospital efficiency by automating routine tasks",
+            "source": "file2.txt"
+        }
+    ],
+    "It reduces workload for doctors but rais": [
+        {
+            "claim": "It reduces workload for doctors but raises concerns about patient data privacy and security",
+            "evidence": "It reduces workload for doctors but raises concerns about patient data privacy and security",
+            "source": "file2.txt"
+        }
+    ],
+    "AI-powered medical imaging tools can ana": [
+        {
+            "claim": "AI-powered medical imaging tools can analyze X-rays and MRIs faster than humans",
+            "evidence": "AI-powered medical imaging tools can analyze X-rays and MRIs faster than humans",
+            "source": "file3.txt"
+        }
+    ],
+    "This increases diagnostic speed but may ": [
+        {
+            "claim": "This increases diagnostic speed but may lead to over-reliance on technology",
+            "evidence": "This increases diagnostic speed but may lead to over-reliance on technology",
+            "source": "file3.txt"
+        }
+    ],
+    "The use of AI in healthcare can reduce t": [
+        {
+            "claim": "The use of AI in healthcare can reduce treatment costs and improve patient outcomes",
+            "evidence": "The use of AI in healthcare can reduce treatment costs and improve patient outcomes",
+            "source": "file4.txt"
+        }
+    ],
+    "However, lack of transparency in AI mode": [
+        {
+            "claim": "However, lack of transparency in AI models creates trust issues among patients",
+            "evidence": "However, lack of transparency in AI models creates trust issues among patients",
+            "source": "file4.txt"
+        }
+    ],
+    "AI systems can assist in drug discovery ": [
+        {
+            "claim": "AI systems can assist in drug discovery and personalized medicine",
+            "evidence": "AI systems can assist in drug discovery and personalized medicine",
+            "source": "file5.txt"
+        }
+    ],
+    "While this accelerates research, ethical": [
+        {
+            "claim": "While this accelerates research, ethical concerns and bias in algorithms remain significant challenges",
+            "evidence": "While this accelerates research, ethical concerns and bias in algorithms remain significant challenges",
+            "source": "file5.txt"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+AI is widely used in healthcare for disease diagnosis. It helps doctors detect conditions like cancer at an early stage. However, AI systems can sometimes produce incorrect predictions.
